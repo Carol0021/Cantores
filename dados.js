@@ -1,0 +1,31 @@
+let dados = [
+    {
+        titulo : "Adele",
+        descricao : "Adele com sua voz potente e cheia de emoção, conquistou o coração de milhares de fãs ao redor do mundo. A cantora britânica se tornou um ícone da música pop, colecionando diversos prêmios Grammy quebrando recordes de vendas. Sua autenticidade e talento inigualável a consolidaram uma das artistas mais influentes de sua geração.",
+        link : "https://pt.wikipedia.org/wiki/Adele",
+        tags: "voz potente cantora Grammy recordes autenticidade talento inigualável artistas geração hello someone link you 30 hope  spotify youtube icone",
+        dataNascimento : "05-05-1988",
+        localNascimento : "Tottenham, Londres - Inglaterra",
+        influencias : ["Etta James", "Roberta Flack"],
+        discografia: { album: "30", ano: 2022 },
+    },
+    {
+        titulo : "Bruno Mars",
+        descricao : "Bruno Mars é um cantor, compositor e produtor musical conhecido por suas músicas pop cativantes e performances energéticas. Com hits como Uptown Funk e Just the Way You Are, ele conquistou o mundo com estilo musical e versátil",
+        link : "https://pt.wikipedia.org/wiki/Bruno_Mars",
+        tags : "cantor compositor produtor musical pop dance Uptown Funk bruninho finesse soul ",
+        dataNascimento : "08-10-1985",
+        localNascimento : "Honolulu, Havaí - Eua",
+        influencias : ["Elvis Presley", "Michael Jackson"],
+        discografia: { album: "24K Magic", ano: 2016},
+    },
+    {
+        titulo : "Coldplay",
+        descricao : " Coldplay é uma banda britânica formada nos anos 90, que conquistou o mundo com as musicas Yellow e Paradise e com suas apresentações grandiosas e energia contagiante. Com sua discografia rica e diversificada, o Coldplay continua a emocionar e inspirar milhares de pessoas com sua música atemporal.",
+        link : "https://en.wikipedia.org/wiki/Coldplay",
+        tags : "banda britânica formada anos 90 paradise yellow fix you concert love ",
+        dataFormacao : "1996",
+        localFormacao : "Londres, Inglaterra",
+        influencias: ["Jeff Buckley", "U2"],
+        discografia : {album: "Moon Music", ano: 2024},
+    }];
