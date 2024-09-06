@@ -1,4 +1,4 @@
-## **README.md Descontraído para o seu Projeto de Busca de Cantores**
+## **README.md Desvendando Cantores - Imersão Dev com o Google Gemini**
 
 ###  **Buscando seus cantores favoritos nunca foi tão fácil!**
 
